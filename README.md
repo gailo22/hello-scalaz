@@ -1,0 +1,4 @@
+hello-scalaz
+============
+
+Scalaz example
